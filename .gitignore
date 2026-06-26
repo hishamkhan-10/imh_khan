@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# stale build artifacts
+/imh_khan_next/
+
 # production
 /build
 
